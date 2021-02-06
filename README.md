@@ -18,7 +18,7 @@
 
 - Laravel
 - Vue.js
-- jQuery｜
+- jQuery
 - Bootstrap
 - Vuetify
 
